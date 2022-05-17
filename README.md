@@ -4,6 +4,8 @@
 👓 Estou buscando me especializar em <strong>Data Visualization</strong> e na área de <strong>Business Intelligence</strong><br>
 🖋️ Tenho interesse em projetos voltados para as áreas da Educação, da Saúde, da Tecnologia e das Gestões Públicas e Privadas<br>
 📖 Atualmente estou aprofundando meu conhecimento em <strong>Tableau, Power BI e R</strong>, iniciando os estudos na área de desenvolvimento de software com o programa NEXT da Cesar School (<strong>Python e Java</strong>), e de vez em quando brinco com desenvolvimento Web Front-end, hehe.<br>
+Veja um pouco do meu trabalho com o software Tableau em meu perfil do Tableau Public!
+<a href="https://public.tableau.com/app/profile/hugo.roberto.de.oliveira#!/" target="_blank"><img src="	https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>
 📫 Como entrar em contato comigo:<br>
 <div>
 <a href="https://www.instagram.com/pega_a_viz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
